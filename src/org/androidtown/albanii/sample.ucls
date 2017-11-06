@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="org.androidtown.albanii.TkwkdInAttend.MyAdapter2" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdInAttend.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="240" x="1341" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.androidtown.albanii.NewActivityrmqdu.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrmqdu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4296" y="1456"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="org.androidtown.albanii.NewActivityrntjddnjs.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrntjddnjs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4078" y="1209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.androidtown.albanii.NewActivitycnfxhlrms.HttpTask2" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivitycnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="4191" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.androidtown.albanii.MainActivity" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="134" x="1280" y="-47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="org.androidtown.albanii.Reply.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Reply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3059" y="1312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="org.androidtown.albanii.Tkwkdrmqdu.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Tkwkdrmqdu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="234" x="2739" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.androidtown.albanii.InMember" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/InMember.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="225" x="395" y="-47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="org.androidtown.albanii.NewActivityrntjddnjs.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrntjddnjs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4357" y="1173"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="org.androidtown.albanii.TkwkdAttendOk" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdAttendOk.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="134" x="660" y="-47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="org.androidtown.albanii.TkwkdInAttend" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdInAttend.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="134" x="1897" y="-47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="org.androidtown.albanii.Reply.HttpTask2" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Reply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3269" y="1312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="org.androidtown.albanii.Reply.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Reply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3489" y="1330"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="org.androidtown.albanii.NewActivityrmqdu" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrmqdu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="134" x="4613" y="-47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="org.androidtown.albanii.NewActivitycnfxhlrms.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivitycnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="278" x="3257" y="627"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="org.androidtown.albanii.Tkwkdcnfxhlrms.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Tkwkdcnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="3465" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="org.androidtown.albanii.Tkwkdrmqdu.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Tkwkdrmqdu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="160" x="3034" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="org.androidtown.albanii.Tkwkdcnfxhlrms.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Tkwkdcnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="234" x="2465" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="org.androidtown.albanii.MainActivity.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="815" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="org.androidtown.albanii.TkwkdInAttend.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdInAttend.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="1937" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="org.androidtown.albanii.Tkwkdrmqdu" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Tkwkdrmqdu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="134" x="3034" y="-47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="org.androidtown.albanii.MainActivity.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="188" x="1280" y="627"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="org.androidtown.albanii.TkwkdInAttend.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdInAttend.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="278" x="2147" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="org.androidtown.albanii.NewActivitycnfxhlrms.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivitycnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="4401" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="org.androidtown.albanii.NewActivitycnfxhlrms.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivitycnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="234" x="3875" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="org.androidtown.albanii.NewActivity" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1879" y="966"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="org.androidtown.albanii.NewActivity.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1650" y="1312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="org.androidtown.albanii.NewActivityrmqdu.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrmqdu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="4653" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="org.androidtown.albanii.InMember.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/InMember.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="395" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="org.androidtown.albanii.NewActivityrmqdu.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrmqdu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3804" y="1209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="org.androidtown.albanii.Reply.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Reply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2796" y="1357"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="org.androidtown.albanii.MainActivity.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="234" x="1025" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="org.androidtown.albanii.TkwkdInAttend.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdInAttend.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="234" x="1621" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="org.androidtown.albanii.NewActivityrntjddnjsOk" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrntjddnjsOk.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="236" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="org.androidtown.albanii.NewActivity.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2486" y="957"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="org.androidtown.albanii.Tkwkdcnfxhlrms" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Tkwkdcnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="134" x="3425" y="-47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="org.androidtown.albanii.Reply" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Reply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3001" y="939"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="org.androidtown.albanii.IntroActivity" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/IntroActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="234" y="42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="org.androidtown.albanii.NewActivitycnfxhlrms" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivitycnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="199" x="4130" y="-47"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="org.androidtown.albanii.NewActivityrntjddnjs.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrntjddnjs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4562" y="1164"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="org.androidtown.albanii.Tkwkdrmqdu.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Tkwkdrmqdu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="3234" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="org.androidtown.albanii.NewActivityrntjddnjs" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivityrntjddnjs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4286" y="782"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="org.androidtown.albanii.NewActivity.HttpTask3" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1860" y="1312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="org.androidtown.albanii.NewActivity.HttpTask2" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2070" y="1312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="org.androidtown.albanii.NewActivity.MyAdapter" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2522" y="1357"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="org.androidtown.albanii.NewActivity.HttpTask4" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/NewActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2280" y="1312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="org.androidtown.albanii.Tkwkdcnfxhlrms.MyData" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Tkwkdcnfxhlrms.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="160" x="3675" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="org.androidtown.albanii.TkwkdAttendOk.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdAttendOk.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="605" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="org.androidtown.albanii.AlbaMenuActivity.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/AlbaMenuActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1169" y="1318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="org.androidtown.albanii.InGroup.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/InGroup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="119" y="1318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="org.androidtown.albanii.InGroup" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/InGroup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="101" y="1026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="org.androidtown.albanii.TkwkdInPay.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdInPay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="959" y="1318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="org.androidtown.albanii.TkwkdPaySet.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdPaySet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="749" y="1318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="org.androidtown.albanii.Notice" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Notice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="311" y="1026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="org.androidtown.albanii.TkwkdPaywlrmq.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdPaywlrmq.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="539" y="1318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="org.androidtown.albanii.TkwkdPaywlrmq" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdPaywlrmq.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="521" y="1053"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="org.androidtown.albanii.LoginActivity.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/LoginActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1379" y="1318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="org.androidtown.albanii.TkwkdPaySet" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdPaySet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="731" y="1053"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="org.androidtown.albanii.Notice.HttpTask" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/Notice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="329" y="1318"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="org.androidtown.albanii.TkwkdInPay" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/TkwkdInPay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="941" y="1080"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="org.androidtown.albanii.AlbaMenuActivity" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/AlbaMenuActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1151" y="1044"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="org.androidtown.albanii.LoginActivity" project="ALBANII" 
+    file="/ALBANII/src/org/androidtown/albanii/LoginActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1362" y="1098"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="63">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <nesting id="64">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <nesting id="65">    
+    <bendpoint x="1310" y="344"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <association id="66">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="67" name="myDataArr"/>      
+      <multiplicity id="68" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="69">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="70">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="71" name="mAdapter"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="73">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <nesting id="74">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <nesting id="75">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <association id="76">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="77" name="mAdapter"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="79">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="41"/>  
+  </nesting>  
+  <nesting id="80">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <association id="81">    
+    <bendpoint x="2516" y="1072"/>    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="82" name="dataArr"/>      
+      <multiplicity id="83" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="84">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <association id="85">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="86" name="myDataArr"/>      
+      <multiplicity id="87" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="89" name="myDataArr"/>      
+      <multiplicity id="90" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="92" name="myDataArr"/>      
+      <multiplicity id="93" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="95" name="dataArr"/>      
+      <multiplicity id="96" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="98" name="myDataArr"/>      
+      <multiplicity id="99" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="100">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="23"/>  
+  </nesting>  
+  <nesting id="101">    
+    <bendpoint x="4139" y="344"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <nesting id="102">    
+    <bendpoint x="2036" y="1174"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <association id="103">    
+    <bendpoint x="4208" y="1204"/>    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="104" name="dataArr"/>      
+      <multiplicity id="105" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="106">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="45"/>  
+  </nesting>  
+  <nesting id="107">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="57"/>  
+  </nesting>  
+  <nesting id="108">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <association id="109">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="110" name="myDataArr"/>      
+      <multiplicity id="111" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="113" name="mAdapter"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="115">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="116">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="117" name="mAdapter2"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <bendpoint x="4248" y="1220"/>    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="120" name="dataArr2"/>      
+      <multiplicity id="121" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="122">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <association id="123">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="124" name="mAdapter"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="126">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="49"/>  
+  </nesting>  
+  <association id="127">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="128" name="myDataArr"/>      
+      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="130">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <nesting id="131">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <association id="132">    
+    <bendpoint x="4160" y="344"/>    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="133" name="dataArr"/>      
+      <multiplicity id="134" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="135">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="31"/>  
+  </nesting>  
+  <association id="136">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="137" name="mAdapter2"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="139">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <nesting id="140">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <association id="141">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="142" name="myDataArr"/>      
+      <multiplicity id="143" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="144">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <association id="145">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="146" name="myDataArr"/>      
+      <multiplicity id="147" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="148">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="53"/>  
+  </nesting>  
+  <nesting id="149">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="50"/>  
+  </nesting>  
+  <association id="150">    
+    <bendpoint x="1906" y="344"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="151" name="dataArr2"/>      
+      <multiplicity id="152" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="153">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="43"/>  
+  </nesting>  
+  <nesting id="154">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="44"/>  
+  </nesting>  
+  <nesting id="155">    
+    <bendpoint x="4622" y="344"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="156">    
+    <bendpoint x="1289" y="344"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="157" name="dataArr"/>      
+      <multiplicity id="158" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="160" name="mAdapter"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <bendpoint x="3003" y="344"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="163" name="dataArr"/>      
+      <multiplicity id="164" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="165">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="55"/>  
+  </nesting>  
+  <association id="166">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="167" name="myDataArr"/>      
+      <multiplicity id="168" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="169">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="170" name="mAdapter"/>      
+      <multiplicity id="171" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="172">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <association id="173">    
+    <bendpoint x="4601" y="344"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="174" name="dataArr"/>      
+      <multiplicity id="175" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="177" name="mAdapter"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="179">    
+    <bendpoint x="3434" y="344"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="180" name="dataArr"/>      
+      <multiplicity id="181" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="182">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <association id="183">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="184" name="mAdapter"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="186">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="46"/>  
+  </nesting>  
+  <nesting id="187">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <nesting id="188">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="47"/>  
+  </nesting>  
+  <association id="189">    
+    <bendpoint x="1885" y="344"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="190" name="dataArr"/>      
+      <multiplicity id="191" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="192">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <nesting id="193">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="59"/>  
+  </nesting>  
+  <nesting id="194">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="48"/>  
+  </nesting>  
+  <nesting id="195">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <association id="196">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="197" name="mAdapter"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="199">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <nesting id="200">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

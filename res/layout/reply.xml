@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="280dp"
+	android:layout_height="400dp"
+	android:layout_gravity="center" >
+
+    <LinearLayout
+        android:id="@+id/lin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.25"
+            android:orientation="horizontal" >
+            
+            <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.34"
+            android:layout_margin="10dp"
+            android:background="#ffffff"
+            android:transcriptMode="alwaysScroll"
+            android:divider="@android:drawable/divider_horizontal_bright"
+            />
+        </LinearLayout>
+		<ScrollView
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/sodyd"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:ems="10"
+                android:hint="댓글을 입력하세요"
+                android:windowSoftInputMode="adjustUnspecified|adjustPan" >
+
+                <requestFocus />
+            </EditText>
+
+        <Button
+            android:id="@+id/inBtn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#81D5FA"
+            android:text="작성"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+		</LinearLayout>
+		</ScrollView>
+    </LinearLayout>
+	
+  </RelativeLayout>

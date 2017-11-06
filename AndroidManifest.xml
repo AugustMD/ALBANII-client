@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.androidtown.albanii"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.CALL_PHONE"/>
+	<uses-permission android:name="android.permission.DIAL_PHONE"/>
+	<uses-permission android:name="android.permission.CALL_PRIVILGED"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"        
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".IntroActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity 
+            android:name=".AlbaMenuActivity">
+        </activity>
+		<activity 
+            android:name=".InGroup"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:name=".InMember"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:name=".LoginActivity"
+            android:windowSoftInputMode="adjustUnspecified">
+        </activity>
+        <activity 
+            android:name=".MainActivity">
+        </activity>
+        <activity 
+            android:name=".NewActivitycnfxhlrms">
+        </activity>
+        <activity 
+            android:name=".NewActivityrmqdu">
+        </activity>
+        <activity 
+            android:name=".NewActivity">
+        </activity>
+        <activity 
+            android:name=".NewActivityrntjddnjs">
+        </activity>
+		<activity 
+            android:name=".NewActivityrntjddnjsOk"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:name=".Tkwkdcnfxhlrms">
+        </activity>
+        <activity 
+            android:name=".Tkwkdrmqdu">
+        </activity>
+        <activity 
+            android:name=".TkwkdInAttend"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:name=".TkwkdAttendOk"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:name=".TkwkdInPay"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+		<activity 
+            android:name=".TkwkdPaySet"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:name=".TkwkdPaywlrmq"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:name=".Notice"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:name=".Reply"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified">
+        </activity>
+                
+    </application>
+
+</manifest>
